@@ -14,7 +14,14 @@ and keep owning quality, when an AI writes a lot of the code.
 - **Fra gjetting til data-drevet utvikling med norsk teknologi** — Kodemaker Åpen Fagdag 2025 · [video](https://www.youtube.com/watch?v=qTgntniTgMU)
 
 ### ✍️ Writing
-I write about agentic devlopment, type-safe design, and product thinking. 
+I write about agentic development, type-safe design, and product thinking.
+
+- [Cursor Rules & MCP](https://www.kodemaker.no/blogg/2025-08-09-cursor-rules-mcp/) · Kodemaker
+- [Discriminated Unions and LEGO](https://www.kodemaker.no/blogg/2025-05-12-discriminated-unions-and-lego/) · Kodemaker
+- [Roten til alt vondt i produktutvikling](https://www.kodemaker.no/blogg/2025-04-roten-til-alt-vondt-i-produktutvikling/) · Kodemaker
+- [Guide: Sånn gjør du Cursor til din par-programmerer](https://www.kode24.no/artikkel/guide-sann-gjor-du-cursor-til-din-par-programmerer/243761) · kode24
+
+*Featured in kode24: [Marina tar 10 knebøy hver time – får oss til å le!](https://www.kode24.no/artikkel/marina-tar-10-kneboy-hver-time-far-oss-til-a-le/235453)*
 
 ### 🛠️ Custom Claude Code skills
 The skills from my talks — read them for the *shape*, fork & adapt for your own work:
