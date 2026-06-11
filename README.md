@@ -6,7 +6,7 @@ I build software end-to-end and care about the *whole* value chain — from user
 production code. These days I am deep into **agentic workflows**: how developers stay in control,
 and keep owning quality, when an AI writes a lot of the code.
 
-`TypeScript` · `React` · `Node.js` · `Kotlin` · type-driven design · product development
+`TypeScript` · `React` · `Node.js` · `Kotlin` · product development
 
 ### Talks
 - **Polymorphic Mindset** — NDC AI 2026 · [slides](https://polymorph-mindset.marinahaugen.no/ndc-ai)
