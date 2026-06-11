@@ -6,7 +6,7 @@ I build software end-to-end and care about the *whole* value chain — from user
 production code. These days I am deep into **agentic workflows**: how developers stay in control,
 and keep owning quality, when an AI writes a lot of the code.
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `Kotlin` · `Python` · `PostgreSQL` · `Zod` · `AWS` · `MCP`
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Kotlin` · `Python` · `PostgreSQL` · `Zod` · `AWS` · `MCP` · `Skills`
 
 ### Talks
 - **Polymorphic Mindset** — NDC AI 2026 · [slides](https://polymorph-mindset.marinahaugen.no/ndc-ai)
