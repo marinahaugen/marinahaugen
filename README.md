@@ -2,8 +2,8 @@
 
 **Systemutvikler @ [Kodemaker](https://www.kodemaker.no/marina/)** | ~9 years fullstack, product-minded | Oslo
 
-I build software end-to-end and care about the *whole* value chain, from user research to type-safe
-production code. These days I am deep into **agentic workflows**: how developers stay in control,
+I build software end-to-end and care about the whole value chain, from user research to type-safe
+production code. These days I am deep into agentic workflows: how developers stay in control,
 and keep owning quality, when an AI writes a lot of the code.
 
 `TypeScript` · `React` · `Next.js` · `Node.js` · `Kotlin` · `Python` · `PostgreSQL` · `Zod` · `AWS` · `MCP` · `Skills`
@@ -14,10 +14,10 @@ and keep owning quality, when an AI writes a lot of the code.
 - **Fra gjetting til data-drevet utvikling med norsk teknologi**, Kodemaker Åpen Fagdag (2025) · [video](https://www.youtube.com/watch?v=qTgntniTgMU)
 
 ### Custom Claude Code skills
-The skills from my talk Polymorphic Mindset. Read them for the *shape*, fork & adapt for your own work:
+The skills from my talk Polymorphic Mindset. Read them for the shape, fork & adapt for your own work:
 **[polymorph-mindset-plugins](https://github.com/marinahaugen/polymorph-mindset-plugins)**
 
-### Writing & Articles
+### Writing & articles
 I write about agentic development, type-safe design, and product thinking.
 
 - [Cursor Rules & MCP (2025)](https://www.kodemaker.no/blogg/2025-08-09-cursor-rules-mcp/) · Kodemaker
