@@ -18,8 +18,7 @@ The skills from my talk Polymorphic Mindset. Read them for the shape, fork & ada
 **[polymorph-mindset-plugins](https://github.com/marinahaugen/polymorph-mindset-plugins)**
 
 ### Writing & articles
-I write about agentic development, type-safe design, and product thinking. Blog: https://blog.marinahaugen.no/ 
-Also published on:
+I write about agentic development, type-safe design, and product thinking. Blog: https://blog.marinahaugen.no/ - also published on:
 
 - [Cursor Rules & MCP (2025)](https://www.kodemaker.no/blogg/2025-08-09-cursor-rules-mcp/) · Kodemaker
 - [Discriminated Unions and LEGO (2025)](https://www.kodemaker.no/blogg/2025-05-12-discriminated-unions-and-lego/) · Kodemaker
